@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Django
+*.db
+*.pot
+*.pyc
+*.pyo
+*.mo
+*.swp
+.env
+.env.*
+local_settings.py
+db.sqlite3
+/media
+/staticfiles
+/static/
+
+# Pytest
+.cache
+htmlcov/
+coverage.xml
+
+# VSCode
+.vscode/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Docker
+*.pid
+*.sock
+*.bak
+docker-compose.override.yml
+**/__pycache__/
+
+# PostgreSQL
+*.sql
+*.dump
+
+# Node / Vue
+node_modules/
+dist/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-debug.log
+.vitepress/dist
+*.tsbuildinfo
+
+# Build
+build/
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+.idea/
+*.iml
+.gitattributes
+venv/
+**/venv/
