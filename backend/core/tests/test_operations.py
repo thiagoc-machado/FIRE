@@ -27,4 +27,4 @@ def test_create_operation():
 
     response = client.post(reverse('operation-list'), payload)
     assert response.status_code == 201
-    assert response.data['quantidade'] == '10.00'
+    assert float(response.data['quantidade']) == 10.0

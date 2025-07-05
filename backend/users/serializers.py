@@ -1,6 +1,8 @@
 from rest_framework import serializers
 from django.contrib.auth import get_user_model
 from rest_framework.validators import UniqueValidator
+from .models import UserSettings
+from drf_spectacular.utils import extend_schema_serializer, OpenApiExample
 
 User = get_user_model()
 
@@ -19,3 +21,21 @@ class RegisterSerializer(serializers.ModelSerializer):
             password=validated_data['password']
         )
         return user
+
+@extend_schema_serializer(
+    examples=[
+        OpenApiExample(
+            'Exemplo de configurações',
+            value={
+                'moeda_padrao': 'EUR',
+                'idioma': 'pt',
+                'frequencia_atualizacao': 24
+            }
+        )
+    ]
+)
+class UserSettingsSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = UserSettings
+        fields = ['moeda_padrao', 'idioma', 'frequencia_atualizacao']
+

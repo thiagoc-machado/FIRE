@@ -7,3 +7,7 @@ python-decouple
 gunicorn
 pytest
 pytest-django
+djoser
+yfinance
+celery==5.3.4
+django-celery-beat
