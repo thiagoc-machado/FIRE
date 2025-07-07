@@ -6,6 +6,8 @@ ENV PYTHONUNBUFFERED 1
 # Define o diretório de trabalho que será montado pelo volume
 WORKDIR /app
 
+COPY . .
+
 # Instala dependências do sistema
 RUN apt-get update && apt-get install -y \
     build-essential \
@@ -19,4 +21,7 @@ RUN apt-get update && apt-get install -y \
 # Instala apenas requirements (o código será mapeado pelo volume)
 COPY requirements.txt .
 RUN pip install -r requirements.txt
+# Expone el puerto 8000 para el contenedor
+EXPOSE 8000
+RUN ls -la
 CMD ["gunicorn", "config.wsgi:application", "--bind", "0.0.0.0:8000"]
