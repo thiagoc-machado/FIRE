@@ -1,40 +1,50 @@
 <template>
     <v-app>
+        <!-- Menu lateral -->
         <Sidebar />
 
-        <v-app-bar app color="primary" dark>
+        <!-- Barra superior -->
+        <v-app-bar app elevation="3" class="gradient-bar" dark>
             <v-app-bar-nav-icon @click="toggleDrawer" />
-            <v-toolbar-title>F.I.R.E.</v-toolbar-title>
+
+            <v-toolbar-title class="font-weight-bold">
+                🔥 F.I.R.E.
+            </v-toolbar-title>
 
             <v-spacer />
 
             <!-- Nome do usuário -->
-            <span v-if="user.username" class="mr-2 text-caption">
-                {{ user.username }}
-            </span>
-            <v-menu offset-y>
-                <template #activator="{ props }">
-                    <v-btn v-bind="props" icon>
-                        <v-avatar size="32">
-                            <v-icon>mdi-account-circle</v-icon>
-                        </v-avatar>
-                    </v-btn>
-                </template>
-                <v-list>
-                    <v-list-item
-                        title="Configurações"
-                        @click="router.push('/configuracoes')"
-                    />
-                    <v-list-item
-                        title="Sair"
-                        @click="logout"
-                        class="text-red"
-                    />
-                </v-list>
-            </v-menu>
+            <div class="d-flex align-center">
+                <span v-if="user.username" class="me-2 text-caption text-white">
+                    {{ user.username }}
+                </span>
+
+                <v-menu offset-y>
+                    <template #activator="{ props }">
+                        <v-btn v-bind="props" icon>
+                            <v-avatar size="32" class="elevation-2">
+                                <v-icon>mdi-account-circle</v-icon>
+                            </v-avatar>
+                        </v-btn>
+                    </template>
+
+                    <v-list>
+                        <v-list-item
+                            title="Configurações"
+                            @click="router.push('/configuracoes')"
+                        />
+                        <v-list-item
+                            title="Sair"
+                            @click="logout"
+                            class="text-red"
+                        />
+                    </v-list>
+                </v-menu>
+            </div>
         </v-app-bar>
 
-        <v-main>
+        <!-- Conteúdo principal -->
+        <v-main class="pa-4 bg-main">
             <router-view />
         </v-main>
     </v-app>
@@ -70,3 +80,16 @@
 
     onMounted(fetchUser);
 </script>
+
+<style scoped>
+    .gradient-bar {
+        background: linear-gradient(90deg, #ff5722, #ff9800);
+    }
+    .bg-main {
+        background-color: #f9f9f9;
+        min-height: 100vh;
+    }
+    .me-2 {
+        margin-right: 8px;
+    }
+</style>

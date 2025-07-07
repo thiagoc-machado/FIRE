@@ -1,20 +1,27 @@
-// ✅ ImportarExportar.vue
 <template>
-    <v-container>
-        <v-card class="mb-4">
-            <v-card-title class="text-h5"
-                >Importar Operações (CSV)</v-card-title
-            >
+    <v-container fluid class="pa-4 bg-light">
+        <!-- 📥 Importação -->
+        <v-card class="mb-6" rounded="xl" elevation="2">
+            <v-card-title class="text-h5 font-weight-bold">
+                📥 Importar Operações (CSV)
+            </v-card-title>
+
             <v-card-text>
                 <v-file-input
                     v-model="arquivo"
                     label="Selecionar arquivo CSV"
                     accept=".csv"
                     prepend-icon="mdi-file-upload"
+                    outlined
+                    rounded
                     @change="carregarPreview"
                 />
 
-                <v-table v-if="preview.length" class="mt-4">
+                <!-- Preview do CSV -->
+                <v-table
+                    v-if="preview.length"
+                    class="mt-4 rounded-xl elevation-1"
+                >
                     <thead>
                         <tr>
                             <th
@@ -34,35 +41,49 @@
                     </tbody>
                 </v-table>
 
+                <!-- Botão Importar -->
                 <v-btn
                     :disabled="!arquivo"
                     color="primary"
                     class="mt-4"
+                    size="large"
+                    rounded
                     @click="importarCSV"
                 >
-                    Importar Arquivo
+                    ✅ Importar Arquivo
                 </v-btn>
 
+                <!-- Alerta de resultado -->
                 <v-alert
                     v-if="mensagem"
                     :type="erro ? 'error' : 'success'"
                     class="mt-4"
+                    border="start"
+                    variant="tonal"
+                    rounded="lg"
                 >
                     {{ mensagem }}
                 </v-alert>
             </v-card-text>
         </v-card>
 
-        <v-card>
-            <v-card-title class="text-h5"
-                >Exportar Operações (JSON)</v-card-title
-            >
+        <!-- 📤 Exportação -->
+        <v-card rounded="xl" elevation="2">
+            <v-card-title class="text-h5 font-weight-bold">
+                📤 Exportar Operações (JSON / Excel)
+            </v-card-title>
+
             <v-card-text>
-                <v-btn color="success" @click="exportarJSON">
-                    Exportar Json
+                <v-btn
+                    color="success"
+                    @click="exportarJSON"
+                    rounded
+                    class="me-2"
+                >
+                    🟢 Exportar JSON
                 </v-btn>
-                <v-btn color="info" class="ml-2" @click="exportarExcel">
-                    Exportar Excel
+                <v-btn color="info" @click="exportarExcel" rounded>
+                    📊 Exportar Excel
                 </v-btn>
             </v-card-text>
         </v-card>
@@ -148,3 +169,9 @@
         URL.revokeObjectURL(url);
     };
 </script>
+
+<style scoped>
+    .bg-light {
+        background-color: #f9f9f9;
+    }
+</style>

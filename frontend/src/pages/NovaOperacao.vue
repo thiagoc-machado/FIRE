@@ -1,15 +1,19 @@
 <template>
-    <v-container>
-        <v-card>
-            <v-card-title class="text-h5">Nova operação</v-card-title>
+    <v-container fluid class="pa-4 bg-light">
+        <v-card rounded="xl" elevation="2" class="pa-4">
+            <v-card-title class="text-h5 font-weight-bold">
+                📝 Nova Operação
+            </v-card-title>
             <v-card-text>
                 <v-form @submit.prevent="submit">
-                    <v-row>
+                    <v-row dense>
                         <v-col cols="12" sm="6">
                             <v-select
                                 v-model="tipo"
                                 :items="['compra', 'venda']"
                                 label="Tipo de operação"
+                                outlined
+                                rounded
                                 required
                             />
                         </v-col>
@@ -21,6 +25,8 @@
                                 item-title="codigo"
                                 item-value="id"
                                 label="Ativo"
+                                outlined
+                                rounded
                                 required
                             >
                                 <template #append-inner>
@@ -34,14 +40,6 @@
                                     </v-btn>
                                 </template>
                             </v-select>
-
-                            <ModalAtivo
-                                v-model="mostrarModalAtivo"
-                                :categorias="categories"
-                                :ativo="null"
-                                @salvo="recarregarAtivos"
-                            />
-
                             <ModalAtivo
                                 v-model="mostrarModalAtivo"
                                 :categorias="categories"
@@ -49,32 +47,37 @@
                                 @salvo="recarregarAtivos"
                             />
                         </v-col>
+
                         <v-col cols="12" sm="6">
-                        <v-select
-                            v-model="broker"
-                            :items="brokers"
-                            item-title="nome"
-                            item-value="id"
-                            label="Corretora"
-                            required
-                        >
-                            <template #append-inner>
-                                <v-btn
-                                    icon
-                                    size="small"
-                                    @mousedown.stop
-                                    @click.stop="mostrarModalCorretora = true"
-                                >
-                                    <v-icon>mdi-plus</v-icon>
-                                </v-btn>
-                            </template>
-                        </v-select>
+                            <v-select
+                                v-model="broker"
+                                :items="brokers"
+                                item-title="nome"
+                                item-value="id"
+                                label="Corretora"
+                                outlined
+                                rounded
+                                required
+                            >
+                                <template #append-inner>
+                                    <v-btn
+                                        icon
+                                        size="small"
+                                        @mousedown.stop
+                                        @click.stop="
+                                            mostrarModalCorretora = true
+                                        "
+                                    >
+                                        <v-icon>mdi-plus</v-icon>
+                                    </v-btn>
+                                </template>
+                            </v-select>
+                            <ModalCorretora
+                                v-model="mostrarModalCorretora"
+                                :corretora="null"
+                                @salvo="carregarCorretoras"
+                            />
                         </v-col>
-                        <ModalCorretora
-                            v-model="mostrarModalCorretora"
-                            :corretora="null"
-                            @salvo="carregarCorretoras"
-                        />
 
                         <v-col cols="12" sm="6">
                             <v-select
@@ -83,6 +86,8 @@
                                 item-title="nome"
                                 item-value="id"
                                 label="Categoria"
+                                outlined
+                                rounded
                                 required
                             >
                                 <template #append-inner>
@@ -98,18 +103,20 @@
                                     </v-btn>
                                 </template>
                             </v-select>
-
                             <ModalCategoria
                                 v-model="mostrarModalCategoria"
                                 :categoria="null"
                                 @salvo="carregarCategorias"
                             />
                         </v-col>
+
                         <v-col cols="12" sm="6">
                             <v-text-field
                                 v-model="quantidade"
                                 label="Quantidade"
                                 type="number"
+                                outlined
+                                rounded
                                 required
                             />
                         </v-col>
@@ -119,6 +126,8 @@
                                 v-model="valor"
                                 label="Valor de compra"
                                 type="number"
+                                outlined
+                                rounded
                                 required
                             />
                         </v-col>
@@ -128,12 +137,21 @@
                                 v-model="data"
                                 label="Data"
                                 type="date"
+                                outlined
+                                rounded
                                 required
                             />
                         </v-col>
 
-                        <v-col cols="12">
-                            <v-btn type="submit" color="primary">Salvar</v-btn>
+                        <v-col cols="12" class="text-end">
+                            <v-btn
+                                type="submit"
+                                color="primary"
+                                size="large"
+                                rounded
+                            >
+                                💾 Salvar
+                            </v-btn>
                         </v-col>
                     </v-row>
                 </v-form>
@@ -241,3 +259,9 @@
         }
     };
 </script>
+
+<style scoped>
+    .bg-light {
+        background-color: #f5f5f5;
+    }
+</style>

@@ -6,6 +6,8 @@
 </template>
 
 <script setup>
+import { computed } from 'vue'
+import { Line } from 'vue-chartjs'
 import {
   Chart as ChartJS,
   Title,
@@ -16,7 +18,6 @@ import {
   LinearScale,
   PointElement
 } from 'chart.js'
-import { Line } from 'vue-chartjs'
 
 ChartJS.register(Title, Tooltip, Legend, LineElement, CategoryScale, LinearScale, PointElement)
 

@@ -17,5 +17,8 @@ class UserSettings(models.Model):
     idioma = models.CharField(max_length=10, default='pt')  # Ex: pt, en, es
     frequencia_atualizacao = models.PositiveIntegerField(default=24)  # em horas
 
+    meta_fire_total = models.DecimalField(max_digits=12, decimal_places=2, default=600000)
+    renda_fire_desejada = models.DecimalField(max_digits=10, decimal_places=2, default=2000)
+
     def __str__(self):
         return f'Settings de {self.user.username}'

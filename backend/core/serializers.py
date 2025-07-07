@@ -76,3 +76,10 @@ class OperationSerializer(serializers.ModelSerializer):
         model = Operation
         fields = '__all__'
         read_only_fields = ['user']
+
+class FireCalculatorInputSerializer(serializers.Serializer):
+    meta_fire_total = serializers.FloatField()
+    aporte_mensal = serializers.FloatField()
+    patrimonio_atual = serializers.FloatField()
+    rentabilidade_anual = serializers.FloatField()
+

@@ -37,5 +37,11 @@ class RegisterSerializer(serializers.ModelSerializer):
 class UserSettingsSerializer(serializers.ModelSerializer):
     class Meta:
         model = UserSettings
-        fields = ['moeda_padrao', 'idioma', 'frequencia_atualizacao']
+        fields = [
+            'moeda_padrao',
+            'idioma',
+            'frequencia_atualizacao',
+            'meta_fire_total',
+            'renda_fire_desejada'
+        ]
 

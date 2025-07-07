@@ -1,12 +1,13 @@
 <template>
-    <v-container>
-        <!-- Alerta com progresso -->
+    <v-container fluid class="pa-4 bg-light">
+        <!-- 🔥 Alerta motivacional -->
         <v-alert
             type="info"
+            variant="outlined"
+            color="deep-orange lighten-4"
             border="start"
-            color="blue lighten-4"
             icon="mdi-fire"
-            class="mb-4"
+            class="mb-4 font-weight-medium"
         >
             Seu progresso FIRE é de
             <strong
@@ -21,9 +22,9 @@
             }}
         </v-alert>
 
-        <!-- Metas e progresso -->
-        <v-card class="mb-6">
-            <v-card-title class="text-h5 d-flex justify-space-between">
+        <!-- 🔥 Resumo do plano -->
+        <v-card class="mb-6" rounded="xl" elevation="1">
+            <v-card-title class="text-h6 d-flex justify-space-between">
                 🔥 Meu Plano F.I.R.E.
                 <v-btn icon @click="abrirEdicao">
                     <v-icon>mdi-pencil</v-icon>
@@ -31,70 +32,74 @@
             </v-card-title>
 
             <v-card-text>
-                <v-row>
+                <v-row dense>
                     <v-col cols="12" md="6" lg="4">
-                        <v-sheet
-                            class="pa-4 text-center"
-                            color="green lighten-5"
-                            rounded
+                        <v-card
+                            class="pa-4 gradient-green text-center"
+                            rounded="xl"
+                            elevation="2"
                         >
-                            <h3>Meta FIRE</h3>
-                            <p class="text-h6">
+                            <h3 class="text-white">Meta FIRE</h3>
+                            <p class="text-h6 text-white font-weight-bold">
                                 {{ formatCurrency(meta.meta_fire_total) }}
                             </p>
-                        </v-sheet>
+                        </v-card>
                     </v-col>
 
                     <v-col cols="12" md="6" lg="4">
-                        <v-sheet
-                            class="pa-4 text-center"
-                            color="blue lighten-5"
-                            rounded
+                        <v-card
+                            class="pa-4 gradient-blue text-center"
+                            rounded="xl"
+                            elevation="2"
                         >
-                            <h3>Patrimônio Atual</h3>
-                            <p class="text-h6">
+                            <h3 class="text-white">Patrimônio Atual</h3>
+                            <p class="text-h6 text-white font-weight-bold">
                                 {{ formatCurrency(progresso.patrimonio_atual) }}
                             </p>
-                        </v-sheet>
+                        </v-card>
                     </v-col>
 
                     <v-col cols="12" md="6" lg="4">
-                        <v-sheet
-                            class="pa-4 text-center"
-                            color="purple lighten-5"
-                            rounded
+                        <v-card
+                            class="pa-4 gradient-purple text-center"
+                            rounded="xl"
+                            elevation="2"
                         >
-                            <h3>Atingido</h3>
+                            <h3 class="text-white mb-2">Atingido</h3>
                             <v-progress-linear
                                 :model-value="progresso.percentual_atingido"
-                                height="25"
+                                height="24"
                                 color="deep-purple"
                                 rounded
                                 class="mt-2"
                             >
-                                <strong
-                                    >{{
+                                <strong class="text-white">
+                                    {{
                                         progresso.percentual_atingido.toFixed(
                                             1
                                         )
-                                    }}%</strong
-                                >
+                                    }}%
+                                </strong>
                             </v-progress-linear>
-                        </v-sheet>
+                        </v-card>
                     </v-col>
                 </v-row>
 
-                <v-row class="mt-4">
+                <v-row class="mt-4" dense>
                     <v-col cols="12" md="6">
-                        <v-sheet class="pa-4" color="amber lighten-5" rounded>
-                            <h3 class="mb-2">Renda desejada FIRE</h3>
-                            <p class="text-h6">
+                        <v-sheet
+                            class="pa-4"
+                            color="amber lighten-5"
+                            rounded="xl"
+                        >
+                            <h4 class="mb-1">Renda desejada FIRE</h4>
+                            <p class="text-h6 font-weight-bold">
                                 {{ formatCurrency(meta.renda_fire_desejada) }} /
                                 mês
                             </p>
 
-                            <h3 class="mt-4 mb-2">Renda passiva estimada</h3>
-                            <p class="text-h6">
+                            <h4 class="mt-4 mb-1">Renda passiva estimada</h4>
+                            <p class="text-h6 font-weight-bold">
                                 {{
                                     formatCurrency(
                                         progresso.renda_atual_estimada
@@ -106,14 +111,18 @@
                     </v-col>
 
                     <v-col cols="12" md="6">
-                        <v-sheet class="pa-4" color="indigo lighten-5" rounded>
-                            <h3 class="mb-2">Gap Mensal</h3>
-                            <p class="text-h6">
+                        <v-sheet
+                            class="pa-4"
+                            color="indigo lighten-5"
+                            rounded="xl"
+                        >
+                            <h4 class="mb-1">Gap Mensal</h4>
+                            <p class="text-h6 font-weight-bold">
                                 {{ formatCurrency(progresso.gap_mensal) }}
                             </p>
 
-                            <h3 class="mt-4 mb-2">Aporte médio mensal</h3>
-                            <p class="text-h6">
+                            <h4 class="mt-4 mb-1">Aporte médio mensal</h4>
+                            <p class="text-h6 font-weight-bold">
                                 {{
                                     formatCurrency(
                                         progresso.aporte_mensal_medio
@@ -121,7 +130,7 @@
                                 }}
                             </p>
 
-                            <h3 class="mt-4 mb-2">Meses estimados até FIRE</h3>
+                            <h4 class="mt-4 mb-1">Meses estimados até FIRE</h4>
                             <p class="text-h5 font-weight-bold">
                                 {{ progresso.meses_estimados }} meses
                             </p>
@@ -131,15 +140,12 @@
             </v-card-text>
         </v-card>
 
-        <!-- Gráfico de evolução -->
-        <v-card class="mb-6">
+        <!-- 📈 Evolução -->
+        <v-card class="mb-6" rounded="xl" elevation="1">
             <v-card-title class="text-h6">📈 Evolução Patrimonial</v-card-title>
             <v-card-text>
                 <LineChart
-                    v-if="
-                        evolucaoData?.labels?.length &&
-                        evolucaoData?.datasets?.length
-                    "
+                    v-if="evolucaoData?.labels?.length"
                     :chart-data="evolucaoData"
                 />
                 <div v-else class="text-center">
@@ -148,15 +154,12 @@
             </v-card-text>
         </v-card>
 
-        <!-- Gráfico de planejamento -->
-        <v-card class="mb-6">
+        <!-- 📊 Planejamento -->
+        <v-card class="mb-6" rounded="xl" elevation="1">
             <v-card-title class="text-h6">📊 Planejamento Mensal</v-card-title>
             <v-card-text>
                 <GroupedBarChart
-                    v-if="
-                        planejamentoData?.labels?.length &&
-                        planejamentoData?.datasets?.length
-                    "
+                    v-if="planejamentoData?.labels?.length"
                     :chart-data="planejamentoData"
                 />
                 <div v-else class="text-center">
@@ -165,7 +168,7 @@
             </v-card-text>
         </v-card>
 
-        <!-- Modal -->
+        <!-- Modal de edição -->
         <v-dialog v-model="modal" max-width="500px">
             <v-card>
                 <v-card-title class="text-h6">Editar metas FIRE</v-card-title>
@@ -297,3 +300,17 @@
 
     onMounted(fetchDados);
 </script>
+<style scoped>
+    .bg-light {
+        background-color: #f5f5f5;
+    }
+    .gradient-blue {
+        background: linear-gradient(135deg, #2196f3, #42a5f5);
+    }
+    .gradient-green {
+        background: linear-gradient(135deg, #43a047, #66bb6a);
+    }
+    .gradient-purple {
+        background: linear-gradient(135deg, #7e57c2, #ab47bc);
+    }
+</style>

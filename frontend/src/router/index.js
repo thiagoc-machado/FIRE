@@ -78,6 +78,11 @@ const routes = [
         component: () => import("../pages/UserSettings.vue"),
         meta: { requiresAuth: true },
     },
+    {
+        path: "/calculadora-fire",
+        name: "CalculadoraFIRE",
+        component: () => import("../pages/CalculadoraFIRE.vue"),
+    },
 ];
 
 const router = createRouter({

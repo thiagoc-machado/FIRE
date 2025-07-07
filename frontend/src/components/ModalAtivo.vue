@@ -1,8 +1,8 @@
 <template>
     <v-dialog v-model="model" max-width="600px">
-        <v-card>
-            <v-card-title class="text-h6">
-                {{ isEdit ? "Editar Ativo" : "Novo Ativo" }}
+        <v-card rounded="xl" elevation="3">
+            <v-card-title class="text-h6 font-weight-bold">
+                {{ isEdit ? "✏️ Editar Ativo" : "➕ Novo Ativo" }}
             </v-card-title>
 
             <v-card-text>
@@ -15,13 +15,36 @@
                         @click:append-inner="buscarDados"
                         :loading="buscando"
                         hint="Clique na lupa para buscar os dados automaticamente"
+                        outlined
+                        rounded
+                        class="mb-3"
                     />
-                    <v-text-field v-model="form.nome" label="Nome" required />
-                    <v-text-field v-model="form.moeda" label="Moeda" required />
+
+                    <v-text-field
+                        v-model="form.nome"
+                        label="Nome"
+                        required
+                        outlined
+                        rounded
+                        class="mb-3"
+                    />
+
+                    <v-text-field
+                        v-model="form.moeda"
+                        label="Moeda"
+                        required
+                        outlined
+                        rounded
+                        class="mb-3"
+                    />
+
                     <v-text-field
                         v-model="form.frequencia_dividendos"
                         label="Frequência de dividendos"
                         required
+                        outlined
+                        rounded
+                        class="mb-3"
                     />
 
                     <v-select
@@ -31,6 +54,8 @@
                         item-value="id"
                         label="Categoria"
                         required
+                        outlined
+                        rounded
                     >
                         <template #append-inner>
                             <v-btn
@@ -43,25 +68,36 @@
                             </v-btn>
                         </template>
                     </v-select>
+
                     <v-text-field
                         v-model="form.tipo"
                         label="Tipo"
                         readonly
                         disabled
+                        outlined
+                        rounded
+                        class="mt-3"
                     />
 
-                    <v-btn type="submit" color="primary" class="mt-4">
-                        {{ isEdit ? "Atualizar" : "Salvar" }}
+                    <v-btn
+                        type="submit"
+                        color="primary"
+                        class="mt-4"
+                        size="large"
+                        rounded
+                    >
+                        {{ isEdit ? "💾 Atualizar" : "✅ Salvar" }}
                     </v-btn>
                 </v-form>
             </v-card-text>
         </v-card>
+
+        <ModalCategoria
+            v-model="mostrarModalCategoria"
+            :categoria="null"
+            @salvo="recarregarCategorias"
+        />
     </v-dialog>
-    <ModalCategoria
-        v-model="mostrarModalCategoria"
-        :categoria="null"
-        @salvo="recarregarCategorias"
-    />
 </template>
 
 <script setup>
@@ -180,3 +216,9 @@
         model.value = false;
     };
 </script>
+
+<style scoped>
+    .mb-3 {
+        margin-bottom: 1rem;
+    }
+</style>

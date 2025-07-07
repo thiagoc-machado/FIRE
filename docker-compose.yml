@@ -5,11 +5,10 @@ services:
     build:
       context: ./backend
     container_name: fire-backend
-    # command: gunicorn config.wsgi:application --bind 0.0.0.0:8000
-    command: python manage.py runserver 0.0.0.0:8000
+    command: gunicorn config.wsgi:application --bind 0.0.0.0:8000
+    # command: python manage.py runserver 0.0.0.0:8000
     volumes:
-      # - ./backend:/app
-      - .:/app
+      - ./backend:/app
     env_file:
       - ./backend/.env
     ports:

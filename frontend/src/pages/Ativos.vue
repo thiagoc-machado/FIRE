@@ -1,35 +1,45 @@
 <template>
-    <v-container>
-        <v-card>
+    <v-container fluid class="pa-4 bg-light">
+        <v-card rounded="xl" elevation="2">
+            <!-- 🔁 Cabeçalho -->
             <v-card-title class="d-flex justify-space-between align-center">
-                <span class="text-h5">Ativos</span>
-                <div>
-                    <v-btn icon @click="abrirNovoAtivo">
+                <span class="text-h5 font-weight-bold">📈 Ativos</span>
+                <div class="d-flex align-center gap-2">
+                    <v-btn
+                        icon
+                        @click="abrirNovoAtivo"
+                        class="me-2"
+                        color="primary"
+                        variant="text"
+                    >
                         <v-icon>mdi-plus</v-icon>
                     </v-btn>
                     <v-btn
                         color="primary"
                         @click="atualizarCotacoes"
                         :loading="loadingAtualizacao"
+                        rounded
                     >
-                        Atualizar cotações
+                        🔄 Atualizar cotações
                     </v-btn>
                 </div>
             </v-card-title>
 
+            <!-- 📋 Tabela -->
             <v-card-text>
                 <v-data-table
                     :items="ativos"
                     :headers="headers"
                     :loading="loading"
-                    class="mt-2"
+                    class="mt-4 rounded-xl elevation-1"
+                    density="comfortable"
                 >
-                    <!-- Campo categoria -->
+                    <!-- 📂 Categoria -->
                     <template #item.categoria_nome="{ item }">
                         {{ item.categoria?.nome || "—" }}
                     </template>
 
-                    <!-- Campo cotação -->
+                    <!-- 💱 Cotação -->
                     <template #item.cotacao="{ item }">
                         {{
                             item.preco_atual != null
@@ -38,12 +48,12 @@
                         }}
                     </template>
 
-                    <!-- Ações -->
+                    <!-- 🛠️ Ações -->
                     <template #item.actions="{ item }">
-                        <v-btn icon @click="editar(item)">
-                            <v-icon>mdi-pencil</v-icon>
+                        <v-btn icon size="small" @click="editar(item)">
+                            <v-icon color="primary">mdi-pencil</v-icon>
                         </v-btn>
-                        <v-btn icon @click="deletar(item.id)">
+                        <v-btn icon size="small" @click="deletar(item.id)">
                             <v-icon color="red">mdi-delete</v-icon>
                         </v-btn>
                     </template>
@@ -51,6 +61,7 @@
             </v-card-text>
         </v-card>
 
+        <!-- ➕ Modal de novo ativo -->
         <ModalAtivo
             v-model="mostrarModal"
             :ativo="ativoSelecionado"
@@ -124,3 +135,12 @@
 
     onMounted(fetchAtivos);
 </script>
+
+<style scoped>
+    .bg-light {
+        background-color: #f9f9f9;
+    }
+    .gap-2 {
+        gap: 8px;
+    }
+</style>

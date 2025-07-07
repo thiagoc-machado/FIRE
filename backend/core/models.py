@@ -21,6 +21,8 @@ class Asset(models.Model):
     categoria = models.ForeignKey(Category, on_delete=models.CASCADE)
     moeda = models.CharField(max_length=10, default='EUR')  # EUR, USD, BRL, etc.
     frequencia_dividendos = models.CharField(max_length=20, default='trimestral')
+    preco_atual = models.DecimalField(max_digits=12, decimal_places=4, null=True, blank=True, default=0,)
+    tipo = models.CharField(max_length=20, default='ativo')
 
     def __str__(self):
         return f'{self.codigo}'
