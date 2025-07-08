@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_spectacular',
     'django_celery_beat',
+    'corsheaders',
 
     # apps
     'core',
@@ -132,11 +133,18 @@ CELERY_BEAT_SCHEDULE = {
 CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
+    'https://fireproject.netlify.app',
     'http://localhost:5173',
     'http://127.0.0.1:5173',
 ]
 
+CSRF_COOKIE_SECURE = True
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SAMESITE = 'None'
+SESSION_COOKIE_SAMESITE = 'None'
+
 CSRF_TRUSTED_ORIGINS = [
     'http://localhost:5173',
     'http://127.0.0.1:5173',
+    'https://fireproject.netlify.app',
 ]
