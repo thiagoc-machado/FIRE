@@ -23,7 +23,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_spectacular',
     'django_celery_beat',
-    'corsheaders',
 
     # apps
     'core',
@@ -147,4 +146,10 @@ CSRF_TRUSTED_ORIGINS = [
     'http://localhost:5173',
     'http://127.0.0.1:5173',
     'https://fireproject.netlify.app',
+]
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'staticfiles'),
 ]

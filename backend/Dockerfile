@@ -21,6 +21,8 @@ RUN apt-get update && apt-get install -y \
 # Instala apenas requirements (o código será mapeado pelo volume)
 COPY requirements.txt .
 RUN pip install -r requirements.txt
+RUN python manage.py migrate
+RUN python manage.py collectstatic --noinput
 # Expone el puerto 8000 para el contenedor
 EXPOSE 8000
 RUN ls -la
