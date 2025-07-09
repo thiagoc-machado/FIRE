@@ -50,7 +50,8 @@ const actions = {
   logout({ commit }) {
     commit('clearTokens')
     commit('setUser', null)
-  }
+    window.location.href = '/login'
+  },
 }
 
 const getters = {

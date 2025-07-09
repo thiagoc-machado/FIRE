@@ -90,13 +90,25 @@ const router = createRouter({
     routes,
 });
 
-router.beforeEach((to, from, next) => {
-    const isAuth = store.getters["auth/isAuthenticated"];
-    if (to.meta.requiresAuth && !isAuth) {
-        next("/login");
-    } else {
-        next();
+router.beforeEach(async (to, from, next) => {
+  const isAuth = store.getters['auth/isAuthenticated']
+
+  if (to.meta.requiresAuth) {
+    if (!isAuth) {
+      return next('/login')
     }
-});
+
+    // Garante que o usuário está carregado
+    if (!store.getters['auth/getUser']) {
+      try {
+        await store.dispatch('auth/fetchUser')
+      } catch {
+        return next('/login')
+      }
+    }
+  }
+
+  next()
+})
 
 export default router;
