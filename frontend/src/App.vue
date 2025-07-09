@@ -1,10 +1,10 @@
 <template>
     <v-app>
         <!-- Menu lateral -->
-        <Sidebar />
+        <Sidebar @close-drawer="fecharDrawer" />
 
         <!-- Barra superior -->
-        <v-app-bar app elevation="3" class="gradient-bar" dark>
+        <v-app-bar app elevation="3" class="gradient-background" dark>
             <v-app-bar-nav-icon @click="toggleDrawer" />
 
             <v-toolbar-title class="font-weight-bold">
@@ -44,7 +44,7 @@
         </v-app-bar>
 
         <!-- Conteúdo principal -->
-        <v-main class="pa-4 bg-main">
+        <v-main>
             <router-view />
         </v-main>
     </v-app>
@@ -65,6 +65,11 @@
         store.dispatch("auth/logout");
         router.push("/login");
     };
+    const fecharDrawer = () => {
+        if (window.innerWidth <= 1280) {
+            store.commit("setDrawer", false);
+        }
+    };
 
     // 🧑 Nome do usuário logado
     const user = ref({ email: "" });
@@ -81,15 +86,36 @@
     onMounted(fetchUser);
 </script>
 
-<style scoped>
+<style>
     .gradient-bar {
-        background: linear-gradient(90deg, #ff5722, #ff9800);
+        background: linear-gradient(90deg, #ff5722, #ff9800) !important;
     }
     .bg-main {
         background-color: #f9f9f9;
-        min-height: 100vh;
+        min-height: calc(100vh - 64px); /* Compensa a app-bar */
+        padding: 16px;
     }
     .me-2 {
         margin-right: 8px;
+    }
+    .gradient-background {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .gradient-background::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, #ff5722, #ff9800);
+        z-index: 0;
+    }
+
+    .gradient-background * {
+        position: relative;
+        z-index: 1;
     }
 </style>
