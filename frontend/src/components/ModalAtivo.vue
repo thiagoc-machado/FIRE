@@ -207,7 +207,7 @@
             const data = response.data;
             form.nome = data.nome || "";
             form.moeda = data.moeda || "";
-            form.frequencia_dividendos = data.frequencia_dividendos || "";
+            form.frequencia_dividendos = data.frequencia_dividendos || 0;
             form.tipo = traduzirTipo(data.tipo);
             form.categoria_nome = data.categoria || "";
 
@@ -248,7 +248,7 @@
         codigo: "",
         nome: "",
         moeda: "",
-        frequencia_dividendos: "",
+        frequencia_dividendos: 0,
         categoria: null,
         tipo: "",
         categoria_nome: "",
@@ -263,7 +263,7 @@
                     codigo: "",
                     nome: "",
                     moeda: "",
-                    frequencia_dividendos: "",
+                    frequencia_dividendos: 0,
                     categoria: null,
                 });
         },
