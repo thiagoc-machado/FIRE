@@ -7,18 +7,35 @@
 
             <v-card-text>
                 <v-form @submit.prevent="salvar">
-                    <v-text-field
+                    <v-autocomplete
                         v-model="form.codigo"
-                        label="Código"
+                        :items="filteredSymbols"
+                        :search="searchQuery"
+                        @update:search="updateSearch"
+                        item-title="displayText"
+                        item-value="codigo"
+                        label="Código do Ativo"
+                        placeholder="Digite o código ou nome do ativo..."
                         required
-                        append-inner-icon="mdi-magnify"
-                        @click:append-inner="buscarDados"
+                        no-filter
+                        hide-no-data
                         :loading="buscando"
-                        hint="Clique na lupa para buscar os dados automaticamente"
                         outlined
                         rounded
                         class="mb-3"
-                    />
+                        @update:model-value="onSymbolSelected"
+                    >
+                        <template #item="{ props, item }">
+                            <v-list-item v-bind="props">
+                                <v-list-item-title>
+                                    <strong>{{ item.raw.codigo }}</strong> - {{ item.raw.nome }}
+                                </v-list-item-title>
+                                <v-list-item-subtitle>
+                                    {{ item.raw.categoria }} • {{ traduzirTipo(item.raw.tipo) }}
+                                </v-list-item-subtitle>
+                            </v-list-item>
+                        </template>
+                    </v-autocomplete>
 
                     <v-text-field
                         v-model="form.nome"
@@ -101,11 +118,15 @@
 </template>
 
 <script setup>
-    import { ref, watch, reactive, computed } from "vue";
+    import { ref, watch, reactive, computed, onMounted } from "vue";
     import axios from "../services/api";
     import ModalCategoria from "./ModalCategoria.vue";
+    import symbolsDatabase from "../assets/symbols_database.json";
 
     const mostrarModalCategoria = ref(false);
+    const searchQuery = ref("");
+    const symbolsData = ref(symbolsDatabase);
+    const filteredSymbols = ref([]);
 
     const abrirModalCategoria = () => {
         mostrarModalCategoria.value = true;
@@ -114,6 +135,52 @@
     const recarregarCategorias = async () => {
         const res = await axios.get("/api/core/categories/");
         props.categorias.splice(0, props.categorias.length, ...res.data);
+    };
+
+    // Função para atualizar a busca no autocomplete
+    const updateSearch = (query) => {
+        searchQuery.value = query;
+        if (!query || query.length < 2) {
+            filteredSymbols.value = [];
+            return;
+        }
+
+        const searchTerm = query.toLowerCase();
+        const filtered = symbolsData.value
+            .filter(symbol => 
+                symbol.codigo.toLowerCase().includes(searchTerm) ||
+                symbol.nome.toLowerCase().includes(searchTerm)
+            )
+            .slice(0, 20) // Limitar a 20 resultados para performance
+            .map(symbol => ({
+                ...symbol,
+                displayText: `${symbol.codigo} - ${symbol.nome}`
+            }));
+        
+        filteredSymbols.value = filtered;
+    };
+
+    // Função chamada quando um símbolo é selecionado
+    const onSymbolSelected = async (codigo) => {
+        if (!codigo) return;
+        
+        const selectedSymbol = symbolsData.value.find(s => s.codigo === codigo);
+        if (selectedSymbol) {
+            // Preencher automaticamente os campos com os dados do símbolo
+            form.nome = selectedSymbol.nome;
+            form.tipo = traduzirTipo(selectedSymbol.tipo);
+            
+            // Mapear categoria automaticamente
+            const categoriaCorrespondente = props.categorias.find(
+                (c) => c.nome.toLowerCase() === selectedSymbol.categoria.toLowerCase()
+            );
+            if (categoriaCorrespondente) {
+                form.categoria = categoriaCorrespondente.id;
+            }
+            
+            // Buscar dados adicionais da API se necessário
+            await buscarDados();
+        }
     };
 
     const props = defineProps({
@@ -215,6 +282,12 @@
         emit("salvo");
         model.value = false;
     };
+
+    // Inicializar o componente
+    onMounted(() => {
+        // Preparar dados dos símbolos para o autocomplete
+        filteredSymbols.value = [];
+    });
 </script>
 
 <style scoped>

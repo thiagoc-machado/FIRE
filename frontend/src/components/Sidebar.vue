@@ -7,12 +7,19 @@
         class="elevation-3"
     >
         <v-list nav dense>
-            <v-list-item v-if="isMobile" class="justify-end">
-                <v-btn icon @click="store.commit('setDrawer', false)">
-                    <v-icon>mdi-close</v-icon>
-                </v-btn>
+            <v-list-item
+                v-if="isMobile"
+                class="gradient-bar justify-center"
+                @click="store.commit('setDrawer', false)"
+                style="cursor: pointer; height: 40px"
+            >
+                <v-icon color="grey-darken-2">mdi-chevron-double-left</v-icon>
+                <span class="ml-2 text-white">Fechar menu</span>
             </v-list-item>
-            <v-list-item class="text-h6 font-weight-bold py-4 px-4">
+            <v-list-item
+                class="text-h6 font-weight-bold py-4 px-4"
+                @click="router.push('/')"
+            >
                 🔥 F.I.R.E.
             </v-list-item>
 
@@ -155,5 +162,8 @@
 <style>
     .v-list-item {
         cursor: pointer;
+    }
+    .gradient-bar {
+        background: linear-gradient(90deg, #ff5722, #ff9800) !important;
     }
 </style>

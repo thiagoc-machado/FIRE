@@ -1,0 +1,6056 @@
+[
+    {
+        "codigo": "BTC-USD",
+        "nome": "Bitcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ETH-USD",
+        "nome": "Ethereum",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XRP-USD",
+        "nome": "XRP",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDT-USD",
+        "nome": "Tether",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BNB-USD",
+        "nome": "BNB",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SOL-USD",
+        "nome": "Solana",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDC-USD",
+        "nome": "USDC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DOGE-USD",
+        "nome": "Dogecoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STETH-USD",
+        "nome": "Lido Staked Ether",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ADA-USD",
+        "nome": "Cardano",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TRX-USD",
+        "nome": "TRON",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WBTC-USD",
+        "nome": "Wrapped Bitcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "HYPE-USD",
+        "nome": "Hyperliquid",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WSTETH-USD",
+        "nome": "Wrapped stETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XLM-USD",
+        "nome": "Stellar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SUI-USD",
+        "nome": "Sui",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LINK-USD",
+        "nome": "Chainlink",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WBETH-USD",
+        "nome": "Wrapped Beacon ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "HBAR-USD",
+        "nome": "Hedera",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WEETH-USD",
+        "nome": "Wrapped eETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AVAX-USD",
+        "nome": "Avalanche",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BCH-USD",
+        "nome": "Bitcoin Cash",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SHIB-USD",
+        "nome": "Shiba Inu",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LTC-USD",
+        "nome": "Litecoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LEO-USD",
+        "nome": "LEO Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WETH-USD",
+        "nome": "WETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TON-USD",
+        "nome": "Toncoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDS-USD",
+        "nome": "USDS",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BSC-USD-USD",
+        "nome": "Binance Bridged USDT (BNB Smart Chain)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DOT-USD",
+        "nome": "Polkadot",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "UNI-USD",
+        "nome": "Uniswap",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CBBTC-USD",
+        "nome": "Coinbase Wrapped BTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WBT-USD",
+        "nome": "WhiteBIT Coin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDE-USD",
+        "nome": "Ethena USDe",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PEPE-USD",
+        "nome": "Pepe",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XMR-USD",
+        "nome": "Monero",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BGB-USD",
+        "nome": "Bitget Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AAVE-USD",
+        "nome": "Aave",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TAO-USD",
+        "nome": "Bittensor",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CRO-USD",
+        "nome": "Cronos",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DAI-USD",
+        "nome": "Dai",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NEAR-USD",
+        "nome": "NEAR Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SUSDE-USD",
+        "nome": "Ethena Staked USDe",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ETC-USD",
+        "nome": "Ethereum Classic",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "APT-USD",
+        "nome": "Aptos",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PI-USD",
+        "nome": "Pi Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ONDO-USD",
+        "nome": "Ondo",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ENA-USD",
+        "nome": "Ethena",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ICP-USD",
+        "nome": "Internet Computer",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "JITOSOL-USD",
+        "nome": "Jito Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OKB-USD",
+        "nome": "OKB",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KAS-USD",
+        "nome": "Kaspa",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MNT-USD",
+        "nome": "Mantle",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BONK-USD",
+        "nome": "Bonk",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BUIDL-USD",
+        "nome": "BlackRock USD Institutional Digital Liquidity Fund",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ALGO-USD",
+        "nome": "Algorand",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ARB-USD",
+        "nome": "Arbitrum",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VET-USD",
+        "nome": "VeChain",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ATOM-USD",
+        "nome": "Cosmos Hub",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RENDER-USD",
+        "nome": "Render",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "POL-USD",
+        "nome": "POL (ex-MATIC)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WETH-USD",
+        "nome": "Binance-Peg WETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PENGU-USD",
+        "nome": "Pudgy Penguins",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TRUMP-USD",
+        "nome": "Official Trump",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USD1-USD",
+        "nome": "USD1",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FET-USD",
+        "nome": "Artificial Superintelligence Alliance",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WLD-USD",
+        "nome": "Worldcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GT-USD",
+        "nome": "Gate",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SEI-USD",
+        "nome": "Sei",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FIL-USD",
+        "nome": "Filecoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FTN-USD",
+        "nome": "Fasttoken",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BNSOL-USD",
+        "nome": "Binance Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SKY-USD",
+        "nome": "Sky",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SUSDS-USD",
+        "nome": "sUSDS",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "JUP-USD",
+        "nome": "Jupiter",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RSETH-USD",
+        "nome": "Kelp DAO Restaked ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "QNT-USD",
+        "nome": "Quant",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SPX-USD",
+        "nome": "SPX6900",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RETH-USD",
+        "nome": "Rocket Pool ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LBTC-USD",
+        "nome": "Lombard Staked BTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "JLP-USD",
+        "nome": "Jupiter Perpetuals Liquidity Provider Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TIA-USD",
+        "nome": "Celestia",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KCS-USD",
+        "nome": "KuCoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XDC-USD",
+        "nome": "XDC Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FARTCOIN-USD",
+        "nome": "Fartcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PUMP-USD",
+        "nome": "Pump.fun",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "IP-USD",
+        "nome": "Story",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "INJ-USD",
+        "nome": "Injective",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FDUSD-USD",
+        "nome": "First Digital USD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDTB-USD",
+        "nome": "USDtb",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FLR-USD",
+        "nome": "Flare",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OSETH-USD",
+        "nome": "StakeWise Staked ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STX-USD",
+        "nome": "Stacks",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "METH-USD",
+        "nome": "Mantle Staked Ether",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OP-USD",
+        "nome": "Optimism",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDT0-USD",
+        "nome": "USDT0",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LSETH-USD",
+        "nome": "Liquid Staked ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FLOKI-USD",
+        "nome": "FLOKI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NEXO-USD",
+        "nome": "NEXO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CRV-USD",
+        "nome": "Curve DAO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EZETH-USD",
+        "nome": "Renzo Restaked ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "S-USD",
+        "nome": "Sonic",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VIRTUAL-USD",
+        "nome": "Virtuals Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WIF-USD",
+        "nome": "dogwifhat",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "IMX-USD",
+        "nome": "Immutable",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDT-USD",
+        "nome": "Polygon Bridged USDT (Polygon)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "JUPSOL-USD",
+        "nome": "Jupiter Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CFX-USD",
+        "nome": "Conflux",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SOLVBTC-USD",
+        "nome": "Solv Protocol BTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GRT-USD",
+        "nome": "The Graph",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LDO-USD",
+        "nome": "Lido DAO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XTZ-USD",
+        "nome": "Tezos",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KAIA-USD",
+        "nome": "Kaia",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDC-USD",
+        "nome": "Binance Bridged USDC (BNB Smart Chain)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WBNB-USD",
+        "nome": "Wrapped BNB",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MSOL-USD",
+        "nome": "Marinade Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "THETA-USD",
+        "nome": "Theta Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PAXG-USD",
+        "nome": "PAX Gold",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CAKE-USD",
+        "nome": "PancakeSwap",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "A-USD",
+        "nome": "Vaulta",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WBTC-USD",
+        "nome": "Arbitrum Bridged WBTC (Arbitrum One)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SYRUPUSDC-USD",
+        "nome": "SyrupUSDC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "JASMY-USD",
+        "nome": "JasmyCoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "IOTA-USD",
+        "nome": "IOTA",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ENS-USD",
+        "nome": "Ethereum Name Service",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CLBTC-USD",
+        "nome": "clBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GALA-USD",
+        "nome": "GALA",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PYUSD-USD",
+        "nome": "PayPal USD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RAY-USD",
+        "nome": "Raydium",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PYTH-USD",
+        "nome": "Pyth Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XAUT-USD",
+        "nome": "Tether Gold",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SAND-USD",
+        "nome": "The Sandbox",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SUPEROETH-USD",
+        "nome": "Super OETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AERO-USD",
+        "nome": "Aerodrome Finance",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CMETH-USD",
+        "nome": "Mantle Restaked ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CGETH.HASHKEY-USD",
+        "nome": "cgETH Hashkey Cloud",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SAROS-USD",
+        "nome": "Saros",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "JTO-USD",
+        "nome": "Jito",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PENDLE-USD",
+        "nome": "Pendle",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BTT-USD",
+        "nome": "BitTorrent",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZEC-USD",
+        "nome": "Zcash",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FLOW-USD",
+        "nome": "Flow",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OUSG-USD",
+        "nome": "OUSG",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "HNT-USD",
+        "nome": "Helium",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DOGE-USD",
+        "nome": "Binance-Peg Dogecoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDY-USD",
+        "nome": "Ondo US Dollar Yield",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDX-USD",
+        "nome": "Stables Labs USDX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "M-USD",
+        "nome": "MemeCore",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MANA-USD",
+        "nome": "Decentraland",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MORPHO-USD",
+        "nome": "Morpho",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDF-USD",
+        "nome": "Falcon USD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TBTC-USD",
+        "nome": "tBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WETH-USD",
+        "nome": "L2 Standard Bridged WETH (Base)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WAL-USD",
+        "nome": "Walrus",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XCN-USD",
+        "nome": "Onyxcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TKX-USD",
+        "nome": "Tokenize Xchange",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BRETT-USD",
+        "nome": "Brett",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EETH-USD",
+        "nome": "ether.fi Staked ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BSV-USD",
+        "nome": "Bitcoin SV",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MOG-USD",
+        "nome": "Mog Coin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CORE-USD",
+        "nome": "Core",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AB-USD",
+        "nome": "AB",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TEL-USD",
+        "nome": "Telcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RUNE-USD",
+        "nome": "THORChain",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USD0-USD",
+        "nome": "Usual USD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ETHX-USD",
+        "nome": "Stader ETHx",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "APE-USD",
+        "nome": "ApeCoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XSOLVBTC-USD",
+        "nome": "Solv Protocol Staked BTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BTC.B-USD",
+        "nome": "Avalanche Bridged BTC (Avalanche)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RSR-USD",
+        "nome": "Reserve Rights",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ETHFI-USD",
+        "nome": "Ether.fi",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AIOZ-USD",
+        "nome": "AIOZ Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AR-USD",
+        "nome": "Arweave",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CBETH-USD",
+        "nome": "Coinbase Wrapped Staked ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "B-USD",
+        "nome": "BUILDon",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WETH-USD",
+        "nome": "Arbitrum Bridged WETH (Arbitrum One)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STRK-USD",
+        "nome": "Starknet",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RLUSD-USD",
+        "nome": "Ripple USD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BDX-USD",
+        "nome": "Beldex",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DYDX-USD",
+        "nome": "dYdX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDD-USD",
+        "nome": "USDD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WHYPE-USD",
+        "nome": "Wrapped HYPE",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NEO-USD",
+        "nome": "NEO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EGLD-USD",
+        "nome": "MultiversX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "COMP-USD",
+        "nome": "Compound",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SWETH-USD",
+        "nome": "Swell Ethereum",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TUSD-USD",
+        "nome": "TrueUSD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SDAI-USD",
+        "nome": "Savings Dai",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DEEP-USD",
+        "nome": "DeepBook",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WEMIX-USD",
+        "nome": "WEMIX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XEC-USD",
+        "nome": "eCash",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EIGEN-USD",
+        "nome": "EigenCloud (prev. EigenLayer)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AXS-USD",
+        "nome": "Axie Infinity",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KAVA-USD",
+        "nome": "Kava",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MOVE-USD",
+        "nome": "Movement",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BEAM-USD",
+        "nome": "Beam",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NFT-USD",
+        "nome": "APENFT",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "W-USD",
+        "nome": "Wormhole",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZK-USD",
+        "nome": "ZKsync",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FRXETH-USD",
+        "nome": "Frax Ether",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CHZ-USD",
+        "nome": "Chiliz",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VENOM-USD",
+        "nome": "Venom",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SYRUP-USD",
+        "nome": "Maple Finance",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "1INCH-USD",
+        "nome": "1inch",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USTB-USD",
+        "nome": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WETH-USD",
+        "nome": "Polygon PoS Bridged WETH (Polygon POS)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STHYPE-USD",
+        "nome": "Staked HYPE",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BBSOL-USD",
+        "nome": "Bybit Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DEXE-USD",
+        "nome": "DeXe",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TETH-USD",
+        "nome": "Treehouse ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AKT-USD",
+        "nome": "Akash Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DOG-USD",
+        "nome": "Dog (Bitcoin)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDC.E-USD",
+        "nome": "Bridged USDC (Polygon PoS Bridge)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KAITO-USD",
+        "nome": "KAITO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "POPCAT-USD",
+        "nome": "Popcat",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDT-USD",
+        "nome": "Mantle Bridged USDT (Mantle)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USYC-USD",
+        "nome": "Circle USYC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDB-USD",
+        "nome": "USDB",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PLUME-USD",
+        "nome": "Plume",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EOS-USD",
+        "nome": "EOS",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GNO-USD",
+        "nome": "Gnosis",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AXL-USD",
+        "nome": "Axelar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SAVAX-USD",
+        "nome": "BENQI Liquid Staked AVAX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RON-USD",
+        "nome": "Ronin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LUNC-USD",
+        "nome": "Terra Luna Classic",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EBTC-USD",
+        "nome": "Ether.fi Staked BTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WAVAX-USD",
+        "nome": "Wrapped AVAX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DAI-USD",
+        "nome": "Polygon PoS Bridged DAI (Polygon POS)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TRIP-USD",
+        "nome": "Trip",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SUPER-USD",
+        "nome": "SuperVerse",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TURBO-USD",
+        "nome": "Turbo",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "JST-USD",
+        "nome": "JUST",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MATIC-USD",
+        "nome": "Polygon",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MEW-USD",
+        "nome": "cat in a dogs world",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ATH-USD",
+        "nome": "Aethir",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CTC-USD",
+        "nome": "Creditcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OHM-USD",
+        "nome": "Olympus",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SUN-USD",
+        "nome": "Sun Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KTA-USD",
+        "nome": "Keeta",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AMP-USD",
+        "nome": "Amp",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CVX-USD",
+        "nome": "Convex Finance",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WBTC-USD",
+        "nome": "Polygon Bridged WBTC (Polygon POS)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TWT-USD",
+        "nome": "Trust Wallet",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SFRXETH-USD",
+        "nome": "Staked Frax Ether",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GRASS-USD",
+        "nome": "Grass",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SAFE-USD",
+        "nome": "Safe",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ETH+-USD",
+        "nome": "ETHPlus",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZBCN-USD",
+        "nome": "Zebec Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LPT-USD",
+        "nome": "Livepeer",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DSOL-USD",
+        "nome": "Drift Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DSOL-USD",
+        "nome": "Drift Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FRAX-USD",
+        "nome": "Frax (prev. FXS)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GHO-USD",
+        "nome": "GHO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BUSD-USD",
+        "nome": "Binance-Peg BUSD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DASH-USD",
+        "nome": "Dash",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDG-USD",
+        "nome": "Global Dollar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KET-USD",
+        "nome": "Ket",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PNUT-USD",
+        "nome": "Peanut the Squirrel",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MOCA-USD",
+        "nome": "Moca Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USR-USD",
+        "nome": "Resolv USR",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FRAX-USD",
+        "nome": "Legacy Frax Dollar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDO-USD",
+        "nome": "OpenEden OpenDollar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SNEK-USD",
+        "nome": "Snek",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DCR-USD",
+        "nome": "Decred",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TOSHI-USD",
+        "nome": "Toshi",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WETH-USD",
+        "nome": "Wrapped Ether (Mantle Bridge)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CUSDO-USD",
+        "nome": "Compounding OpenDollar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MINA-USD",
+        "nome": "Mina Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ABTC-USD",
+        "nome": "aBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USELESS-USD",
+        "nome": "Useless Coin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KSM-USD",
+        "nome": "Kusama",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BERA-USD",
+        "nome": "Berachain",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TFUEL-USD",
+        "nome": "Theta Fuel",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GLM-USD",
+        "nome": "Golem",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ARKM-USD",
+        "nome": "Arkham",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CWBTC-USD",
+        "nome": "cWBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PUMPBTC-USD",
+        "nome": "pumpBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EUTBL-USD",
+        "nome": "Spiko EU T-Bills Money Market Fund",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CHEEMS-USD",
+        "nome": "Cheems Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BORG-USD",
+        "nome": "SwissBorg",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CKB-USD",
+        "nome": "Nervos Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "QUBIC-USD",
+        "nome": "Qubic",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SFP-USD",
+        "nome": "SafePal",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "QTUM-USD",
+        "nome": "Qtum",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BLUR-USD",
+        "nome": "Blur",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BABYDOGE-USD",
+        "nome": "Baby Doge Coin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZIL-USD",
+        "nome": "Zilliqa",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SNX-USD",
+        "nome": "Synthetix Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BTSE-USD",
+        "nome": "BTSE Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZRO-USD",
+        "nome": "LayerZero",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZRX-USD",
+        "nome": "0x Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TRAC-USD",
+        "nome": "OriginTrail",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BAT-USD",
+        "nome": "Basic Attention",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RVN-USD",
+        "nome": "Ravencoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DRIFT-USD",
+        "nome": "Drift Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NOT-USD",
+        "nome": "Notcoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "IOTX-USD",
+        "nome": "IoTeX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ROSE-USD",
+        "nome": "Oasis",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FLUID-USD",
+        "nome": "Fluid",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TRIBE-USD",
+        "nome": "Tribe",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OETH-USD",
+        "nome": "Origin Ether",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ORDI-USD",
+        "nome": "ORDI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ASBNB-USD",
+        "nome": "Aster Staked BNB",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "UNIBTC-USD",
+        "nome": "Universal BTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "REKT-USD",
+        "nome": "Rekt",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ASTR-USD",
+        "nome": "Astar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GAS-USD",
+        "nome": "Gas",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NEIRO-USD",
+        "nome": "Neiro",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZETA-USD",
+        "nome": "ZetaChain",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NPC-USD",
+        "nome": "Non-Playable Coin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CELO-USD",
+        "nome": "Celo",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "COW-USD",
+        "nome": "CoW Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GIGA-USD",
+        "nome": "Gigachad",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AGENTFUN-USD",
+        "nome": "AgentFun.AI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BCAP-USD",
+        "nome": "Blockchain Capital",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SOL-USD",
+        "nome": "Binance-Peg SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WSTUSR-USD",
+        "nome": "Resolv wstUSR",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AURA-USD",
+        "nome": "aura",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RLP-USD",
+        "nome": "Resolv RLP",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EURC-USD",
+        "nome": "EURC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EUL-USD",
+        "nome": "Euler",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AI16Z-USD",
+        "nome": "ai16z",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "HOT-USD",
+        "nome": "Holo",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MOODENG-USD",
+        "nome": "Moo Deng",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "YFI-USD",
+        "nome": "yearn.finance",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MX-USD",
+        "nome": "MX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VTHO-USD",
+        "nome": "VeThor",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ETHW-USD",
+        "nome": "EthereumPoW",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SC-USD",
+        "nome": "Siacoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "IBERA-USD",
+        "nome": "Infrared Bera",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "T-USD",
+        "nome": "Threshold Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SUSHI-USD",
+        "nome": "Sushi",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDA-USD",
+        "nome": "USDa",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CETH-USD",
+        "nome": "cETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "POLYX-USD",
+        "nome": "Polymesh",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SOLO-USD",
+        "nome": "Sologenic",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ONE-USD",
+        "nome": "Harmony",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LGCT-USD",
+        "nome": "Legacy Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "UXLINK-USD",
+        "nome": "UXLINK",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PC0000031-USD",
+        "nome": "Tradable NA Rent Financing Platform SSTN",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NXM-USD",
+        "nome": "Nexus Mutual",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GOMINING-USD",
+        "nome": "GoMining Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ERA-USD",
+        "nome": "Caldera",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ANKR-USD",
+        "nome": "Ankr Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CONSCIOUS-USD",
+        "nome": "Conscious Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DGB-USD",
+        "nome": "DigiByte",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FUN-USD",
+        "nome": "FUNToken",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STG-USD",
+        "nome": "Stargate Finance",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SAHARA-USD",
+        "nome": "Sahara AI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CSPR-USD",
+        "nome": "Casper Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ELF-USD",
+        "nome": "aelf",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MAG7.SSI-USD",
+        "nome": "MAG7.ssi",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WOO-USD",
+        "nome": "WOO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KDA-USD",
+        "nome": "Kadena",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STEAKUSDC-USD",
+        "nome": "Steakhouse USDC Morpho Vault",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PTGC-USD",
+        "nome": "The Grays Currency",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VANA-USD",
+        "nome": "Vana",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GMT-USD",
+        "nome": "GMT",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "UMA-USD",
+        "nome": "UMA",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ENJ-USD",
+        "nome": "Enjin Coin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XCH-USD",
+        "nome": "Chia",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PROM-USD",
+        "nome": "Prom",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OSAK-USD",
+        "nome": "Osaka Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MGG-USD",
+        "nome": "MimboGameGroup",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RPL-USD",
+        "nome": "Rocket Pool",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MELANIA-USD",
+        "nome": "Melania Meme",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AIXBT-USD",
+        "nome": "aixbt",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZIG-USD",
+        "nome": "ZIGChain",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KOGE-USD",
+        "nome": "KOGE",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ORCA-USD",
+        "nome": "Orca",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XYO-USD",
+        "nome": "XYO Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BOME-USD",
+        "nome": "BOOK OF MEME",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ICX-USD",
+        "nome": "ICON",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZEN-USD",
+        "nome": "Horizen",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WBTC-USD",
+        "nome": "Sui Bridged WBTC (Sui)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AUSD-USD",
+        "nome": "AUSD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KMNO-USD",
+        "nome": "Kamino",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KAU-USD",
+        "nome": "Kinesis Gold",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LAYER-USD",
+        "nome": "Solayer",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DEUSD-USD",
+        "nome": "Elixir deUSD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FBTC-USD",
+        "nome": "Function ƒBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MASK-USD",
+        "nome": "Mask Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDC-USD",
+        "nome": "Cronos Bridged USDC (Cronos)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "COTI-USD",
+        "nome": "COTI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KAG-USD",
+        "nome": "Kinesis Silver",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OSMO-USD",
+        "nome": "Osmosis",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ONT-USD",
+        "nome": "Ontology",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "KUB-USD",
+        "nome": "KUB Coin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EURS-USD",
+        "nome": "STASIS EURO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "IO-USD",
+        "nome": "io.net",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VELO-USD",
+        "nome": "Velo",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SXP-USD",
+        "nome": "Solar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WELL-USD",
+        "nome": "Moonwell",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ME-USD",
+        "nome": "Magic Eden",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FAI-USD",
+        "nome": "Freysa AI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SKL-USD",
+        "nome": "SKALE",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GMX-USD",
+        "nome": "GMX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ALT-USD",
+        "nome": "AltLayer",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VRSC-USD",
+        "nome": "Verus",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GOAT-USD",
+        "nome": "Goatseus Maximus",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PRIME-USD",
+        "nome": "Echelon Prime",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "HSK-USD",
+        "nome": "HashKey Platform Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CPOOL-USD",
+        "nome": "Clearpool",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MPLX-USD",
+        "nome": "Metaplex",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WMTX-USD",
+        "nome": "World Mobile Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XPR-USD",
+        "nome": "XPR Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CET-USD",
+        "nome": "CoinEx",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GOHOME-USD",
+        "nome": "GOHOME",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ILV-USD",
+        "nome": "Illuvium",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XNO-USD",
+        "nome": "Nano",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZANO-USD",
+        "nome": "Zano",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AMAPT-USD",
+        "nome": "Amnis Aptos",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CFG-USD",
+        "nome": "Centrifuge [OLD]",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VVS-USD",
+        "nome": "VVS Finance",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SNT-USD",
+        "nome": "Status",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BIGTIME-USD",
+        "nome": "Big Time",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BLAST-USD",
+        "nome": "Blast",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LUNA-USD",
+        "nome": "Terra",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "RSWETH-USD",
+        "nome": "Restaked Swell ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SSOL-USD",
+        "nome": "Solayer Staked SOL",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "METAL-USD",
+        "nome": "Metal Blockchain",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DAG-USD",
+        "nome": "Constellation",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BAND-USD",
+        "nome": "Band Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BIO-USD",
+        "nome": "Bio Protocol",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "NEIRO-USD",
+        "nome": "Neiro on ETH",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ACT-USD",
+        "nome": "Acet",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CRVUSD-USD",
+        "nome": "crvUSD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XVG-USD",
+        "nome": "Verge",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ACH-USD",
+        "nome": "Alchemy Pay",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "REAL-USD",
+        "nome": "RealLink",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LQTY-USD",
+        "nome": "Liquity",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LRC-USD",
+        "nome": "Loopring",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "LCX-USD",
+        "nome": "LCX",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "METIS-USD",
+        "nome": "Metis",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SWFTC-USD",
+        "nome": "SWFTCOIN",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USTBL-USD",
+        "nome": "Spiko US T-Bills Money Market Fund",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BORA-USD",
+        "nome": "BORA",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "OZO-USD",
+        "nome": "Ozone Chain",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SIX-USD",
+        "nome": "Six Sigma",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "HIVE-USD",
+        "nome": "Hive",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SRUSD-USD",
+        "nome": "Reservoir srUSD",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BABY-USD",
+        "nome": "Babylon",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDN-USD",
+        "nome": "Noble Dollar (USDN)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "COOKIE-USD",
+        "nome": "Cookie DAO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AGI-USD",
+        "nome": "Delysium",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDZ-USD",
+        "nome": "Anzen USDz",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TRB-USD",
+        "nome": "Tellor Tributes",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PEOPLE-USD",
+        "nome": "ConstitutionDAO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "API3-USD",
+        "nome": "Api3",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ALCH-USD",
+        "nome": "Alchemist AI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "REI-USD",
+        "nome": "Rei",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BLACK-USD",
+        "nome": "Blackhole",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "YU-USD",
+        "nome": "Yala Stablecoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STBTC-USD",
+        "nome": "Lorenzo stBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DIA-USD",
+        "nome": "DIA",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CSUSDL-USD",
+        "nome": "Coinshift USDL Morpho Vault",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BITCOIN-USD",
+        "nome": "HarryPotterObamaSonic10Inu (ETH)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VRA-USD",
+        "nome": "Verasity",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ANIME-USD",
+        "nome": "Animecoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "TDCCP-USD",
+        "nome": "TDCCP",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ALEO-USD",
+        "nome": "ALEO",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ZENBTC-USD",
+        "nome": "Zenrock BTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "WAVES-USD",
+        "nome": "Waves",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SBTC-USD",
+        "nome": "sBTC",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AWE-USD",
+        "nome": "AWE Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "XVS-USD",
+        "nome": "Venus",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "IOST-USD",
+        "nome": "IOST",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FIDA-USD",
+        "nome": "Solana Name Service (prev. Bonfida)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "CROSS-USD",
+        "nome": "Cross",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VCNT-USD",
+        "nome": "ViciCoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PZETH-USD",
+        "nome": "Renzo Restaked LST",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "HONEY-USD",
+        "nome": "Hivemapper",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "USDL-USD",
+        "nome": "Lift Dollar",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "UDS-USD",
+        "nome": "Undeads Games",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BICO-USD",
+        "nome": "Biconomy",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MWETH-USD",
+        "nome": "Moonwell Flagship ETH (Morpho Vault)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "GAL-USD",
+        "nome": "GAL (migrated to Gravity - G)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "REQ-USD",
+        "nome": "Request",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AEVO-USD",
+        "nome": "Aevo",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "ACRED-USD",
+        "nome": "Apollo Diversified Credit Securitize Fund",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "PURR-USD",
+        "nome": "Purr",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BANANA-USD",
+        "nome": "Banana Gun",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VVV-USD",
+        "nome": "Venice Token",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MANTA-USD",
+        "nome": "Manta Network",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AGIX-USD",
+        "nome": "SingularityNET",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DYM-USD",
+        "nome": "Dymension",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "AIC-USD",
+        "nome": "AI Companions",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EGL1-USD",
+        "nome": "EGL1",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "BMX-USD",
+        "nome": "BitMart",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "FLUX-USD",
+        "nome": "Flux",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "EWT-USD",
+        "nome": "Energy Web",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SDAI-USD",
+        "nome": "Savings xDAI",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "G-USD",
+        "nome": "Gravity (by Galxe)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "STRAX-USD",
+        "nome": "Stratis",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DEGEN-USD",
+        "nome": "Degen",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "VBETH-USD",
+        "nome": "VaultBridge Bridged ETH (Katana)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "SATS-USD",
+        "nome": "SATS (Ordinals)",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "YGG-USD",
+        "nome": "Yield Guild Games",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MEME-USD",
+        "nome": "Memecoin",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "DOLA-USD",
+        "nome": "DOLA",
+        "tipo": "Cryptocurrency",
+        "categoria": "Digital Assets"
+    },
+    {
+        "codigo": "MMM",
+        "nome": "3M Company",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "MHK",
+        "nome": "Mohawk Industries, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "TAP",
+        "nome": "Molson Coors Beverage Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "WTW",
+        "nome": "Willis Towers Watson Public Lim",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "GD",
+        "nome": "General Dynamics Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "IVZ",
+        "nome": "Invesco Ltd",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "PLD",
+        "nome": "Prologis, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "URI",
+        "nome": "United Rentals, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "DLTR",
+        "nome": "Dollar Tree, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "PEP",
+        "nome": "Pepsico, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "CMCSA",
+        "nome": "Comcast Corporation",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "PCG",
+        "nome": "Pacific Gas & Electric Co.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "IEX",
+        "nome": "IDEX Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "INVH",
+        "nome": "Invitation Homes Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "SBUX",
+        "nome": "Starbucks Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "SBAC",
+        "nome": "SBA Communications Corporation",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "COIN",
+        "nome": "Coinbase Global, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "PNC",
+        "nome": "PNC Financial Services Group, I",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "TFC",
+        "nome": "Truist Financial Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "PTC",
+        "nome": "PTC Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "HIG",
+        "nome": "The Hartford Insurance Group, I",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "RF",
+        "nome": "Regions Financial Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "WBA",
+        "nome": "Walgreens Boots Alliance, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "AAPL",
+        "nome": "Apple Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "AVB",
+        "nome": "AvalonBay Communities, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "TRGP",
+        "nome": "Targa Resources, Inc.",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "PGR",
+        "nome": "Progressive Corporation (The)",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "SHW",
+        "nome": "Sherwin-Williams Company (The)",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "BDX",
+        "nome": "Becton, Dickinson and Company",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "HST",
+        "nome": "Host Hotels & Resorts, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "MA",
+        "nome": "Mastercard Incorporated",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "BA",
+        "nome": "Boeing Company (The)",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "BKR",
+        "nome": "Baker Hughes Company",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "CARR",
+        "nome": "Carrier Global Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "DPZ",
+        "nome": "Domino's Pizza Inc",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "AXON",
+        "nome": "Axon Enterprise, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "BAC",
+        "nome": "Bank of America Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "RMD",
+        "nome": "ResMed Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "WM",
+        "nome": "Waste Management, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "COP",
+        "nome": "ConocoPhillips",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "OMC",
+        "nome": "Omnicom Group Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "MAS",
+        "nome": "Masco Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "LLY",
+        "nome": "Eli Lilly and Company",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "LNT",
+        "nome": "Alliant Energy Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "BSX",
+        "nome": "Boston Scientific Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "IPG",
+        "nome": "Interpublic Group of Companies,",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "DAY",
+        "nome": "Dayforce, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "ADM",
+        "nome": "Archer-Daniels-Midland Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "ALL",
+        "nome": "Allstate Corporation (The)",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "CRL",
+        "nome": "Charles River Laboratories Inte",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "TDY",
+        "nome": "Teledyne Technologies Incorpora",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "FICO",
+        "nome": "Fair Isaac Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "PEG",
+        "nome": "Public Service Enterprise Group",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "ZBRA",
+        "nome": "Zebra Technologies Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "MRNA",
+        "nome": "Moderna, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "MSI",
+        "nome": "Motorola Solutions, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "WMT",
+        "nome": "Walmart Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "AWK",
+        "nome": "American Water Works Company, I",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "QCOM",
+        "nome": "QUALCOMM Incorporated",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "IBM",
+        "nome": "International Business Machines",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "MLM",
+        "nome": "Martin Marietta Materials, Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "GNRC",
+        "nome": "Generac Holdlings Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "CZR",
+        "nome": "Caesars Entertainment, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "ETN",
+        "nome": "Eaton Corporation, PLC",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "TT",
+        "nome": "Trane Technologies plc",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "AMT",
+        "nome": "American Tower Corporation (REI",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "TJX",
+        "nome": "TJX Companies, Inc. (The)",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "USB",
+        "nome": "U.S. Bancorp",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "SPG",
+        "nome": "Simon Property Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "MCO",
+        "nome": "Moody's Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "AEE",
+        "nome": "Ameren Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "FTV",
+        "nome": "Fortive Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "ITW",
+        "nome": "Illinois Tool Works Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "IT",
+        "nome": "Gartner, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "EL",
+        "nome": "Estee Lauder Companies, Inc. (T",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "PFG",
+        "nome": "Principal Financial Group Inc",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "GILD",
+        "nome": "Gilead Sciences, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "APH",
+        "nome": "Amphenol Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "DD",
+        "nome": "DuPont de Nemours, Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "CAT",
+        "nome": "Caterpillar, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "DGX",
+        "nome": "Quest Diagnostics Incorporated",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "BALL",
+        "nome": "Ball Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "AFL",
+        "nome": "AFLAC Incorporated",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "KEYS",
+        "nome": "Keysight Technologies Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "KR",
+        "nome": "Kroger Company (The)",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "F",
+        "nome": "Ford Motor Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "BK",
+        "nome": "The Bank of New York Mellon Cor",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "ALGN",
+        "nome": "Align Technology, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "KO",
+        "nome": "Coca-Cola Company (The)",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "APD",
+        "nome": "Air Products and Chemicals, Inc",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "DOW",
+        "nome": "Dow Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "RL",
+        "nome": "Ralph Lauren Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "PNR",
+        "nome": "Pentair plc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "PG",
+        "nome": "Procter & Gamble Company (The)",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "DRI",
+        "nome": "Darden Restaurants, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "TRV",
+        "nome": "The Travelers Companies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "PNW",
+        "nome": "Pinnacle West Capital Corporati",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "CMS",
+        "nome": "CMS Energy Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "CPAY",
+        "nome": "Corpay, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "DASH",
+        "nome": "DoorDash, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "MCD",
+        "nome": "McDonald's Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CL",
+        "nome": "Colgate-Palmolive Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "HWM",
+        "nome": "Howmet Aerospace Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "ATO",
+        "nome": "Atmos Energy Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "NKE",
+        "nome": "Nike, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "V",
+        "nome": "Visa Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "UNP",
+        "nome": "Union Pacific Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "BKNG",
+        "nome": "Booking Holdings Inc. Common St",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "BEN",
+        "nome": "Franklin Resources, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "NTAP",
+        "nome": "NetApp, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "HCA",
+        "nome": "HCA Healthcare, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "WDC",
+        "nome": "Western Digital Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "LHX",
+        "nome": "L3Harris Technologies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "ALB",
+        "nome": "Albemarle Corporation",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "REG",
+        "nome": "Regency Centers Corporation",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "LIN",
+        "nome": "Linde plc",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "ARE",
+        "nome": "Alexandria Real Estate Equities",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "AZO",
+        "nome": "AutoZone, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CTSH",
+        "nome": "Cognizant Technology Solutions ",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "FRT",
+        "nome": "Federal Realty Investment Trust",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "LYV",
+        "nome": "Live Nation Entertainment, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "PM",
+        "nome": "Philip Morris International Inc",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "YUM",
+        "nome": "Yum! Brands, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "EVRG",
+        "nome": "Evergy, Inc.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "EXPE",
+        "nome": "Expedia Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "HON",
+        "nome": "Honeywell International Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "AMCR",
+        "nome": "Amcor plc",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "STT",
+        "nome": "State Street Corporation",
+        "tipo": "ETF",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "LII",
+        "nome": "Lennox International, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "CNC",
+        "nome": "Centene Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "LEN",
+        "nome": "Lennar Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "DDOG",
+        "nome": "Datadog, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "NDAQ",
+        "nome": "Nasdaq, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "MOS",
+        "nome": "Mosaic Company (The)",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "EOG",
+        "nome": "EOG Resources, Inc.",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "MSCI",
+        "nome": "MSCI Inc.",
+        "tipo": "ETF",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "ROK",
+        "nome": "Rockwell Automation, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "PH",
+        "nome": "Parker-Hannifin Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "EW",
+        "nome": "Edwards Lifesciences Corporatio",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CMG",
+        "nome": "Chipotle Mexican Grill, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "PANW",
+        "nome": "Palo Alto Networks, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "HAS",
+        "nome": "Hasbro, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CVX",
+        "nome": "Chevron Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "CAG",
+        "nome": "ConAgra Brands, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "VRTX",
+        "nome": "Vertex Pharmaceuticals Incorpor",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "SJM",
+        "nome": "The J.M. Smucker Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "FIS",
+        "nome": "Fidelity National Information S",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "IFF",
+        "nome": "International Flavors & Fragran",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "SCHW",
+        "nome": "Charles Schwab Corporation (The",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "TSCO",
+        "nome": "Tractor Supply Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "ELV",
+        "nome": "Elevance Health, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "LULU",
+        "nome": "lululemon athletica inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "POOL",
+        "nome": "Pool Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "L",
+        "nome": "Loews Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "NWS",
+        "nome": "News Corporation",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "ES",
+        "nome": "Eversource Energy (D/B/A)",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "SRE",
+        "nome": "DBA Sempra",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "FOXA",
+        "nome": "Fox Corporation",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "SOLV",
+        "nome": "Solventum Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "KDP",
+        "nome": "Keurig Dr Pepper Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "AEP",
+        "nome": "American Electric Power Company",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "IQV",
+        "nome": "IQVIA Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "GPC",
+        "nome": "Genuine Parts Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "ROP",
+        "nome": "Roper Technologies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "SO",
+        "nome": "Southern Company (The)",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "VLO",
+        "nome": "Valero Energy Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "HRL",
+        "nome": "Hormel Foods Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "NXPI",
+        "nome": "NXP Semiconductors N.V.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "PYPL",
+        "nome": "PayPal Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "ANET",
+        "nome": "Arista Networks, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "KHC",
+        "nome": "The Kraft Heinz Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "TROW",
+        "nome": "T. Rowe Price Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "DHI",
+        "nome": "D.R. Horton, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "ABT",
+        "nome": "Abbott Laboratories",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "AKAM",
+        "nome": "Akamai Technologies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "CDW",
+        "nome": "CDW Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "EMN",
+        "nome": "Eastman Chemical Company",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "O",
+        "nome": "Realty Income Corporation",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "REGN",
+        "nome": "Regeneron Pharmaceuticals, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "FITB",
+        "nome": "Fifth Third Bancorp",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "ADBE",
+        "nome": "Adobe Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "IP",
+        "nome": "International Paper Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "SYK",
+        "nome": "Stryker Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "MO",
+        "nome": "Altria Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "ORCL",
+        "nome": "Oracle Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "IDXX",
+        "nome": "IDEXX Laboratories, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "UHS",
+        "nome": "Universal Health Services, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "PPL",
+        "nome": "PPL Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "CMI",
+        "nome": "Cummins Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "FAST",
+        "nome": "Fastenal Company",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "IR",
+        "nome": "Ingersoll Rand Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "MCHP",
+        "nome": "Microchip Technology Incorporat",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "AMD",
+        "nome": "Advanced Micro Devices, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "MDT",
+        "nome": "Medtronic plc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CB",
+        "nome": "Chubb Limited",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "TMO",
+        "nome": "Thermo Fisher Scientific Inc",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CHD",
+        "nome": "Church & Dwight Company, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "VMC",
+        "nome": "Vulcan Materials Company (Holdi",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "RVTY",
+        "nome": "Revvity, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CINF",
+        "nome": "Cincinnati Financial Corporatio",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "RCL",
+        "nome": "Royal Caribbean Cruises Ltd.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "APO",
+        "nome": "Apollo Global Management, Inc. ",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "TXN",
+        "nome": "Texas Instruments Incorporated",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "DOC",
+        "nome": "Healthpeak Properties, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "MOH",
+        "nome": "Molina Healthcare Inc",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ORLY",
+        "nome": "O'Reilly Automotive, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "BXP",
+        "nome": "BXP, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "EIX",
+        "nome": "Edison International",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "AJG",
+        "nome": "Arthur J. Gallagher & Co.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "CSCO",
+        "nome": "Cisco Systems, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "BLDR",
+        "nome": "Builders FirstSource, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "MAR",
+        "nome": "Marriott International",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "MNST",
+        "nome": "Monster Beverage Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "EXE",
+        "nome": "Expand Energy Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "DTE",
+        "nome": "DTE Energy Company",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "RSG",
+        "nome": "Republic Services, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "WAB",
+        "nome": "Westinghouse Air Brake Technolo",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "LRCX",
+        "nome": "Lam Research Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "PCAR",
+        "nome": "PACCAR Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "AMGN",
+        "nome": "Amgen Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CHRW",
+        "nome": "C.H. Robinson Worldwide, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "EXC",
+        "nome": "Exelon Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "SYY",
+        "nome": "Sysco Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "XEL",
+        "nome": "Xcel Energy Inc.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "SNPS",
+        "nome": "Synopsys, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "UPS",
+        "nome": "United Parcel Service, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "BMY",
+        "nome": "Bristol-Myers Squibb Company",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "KEY",
+        "nome": "KeyCorp",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "AMP",
+        "nome": "Ameriprise Financial, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "CAH",
+        "nome": "Cardinal Health, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "MCK",
+        "nome": "McKesson Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CEG",
+        "nome": "Constellation Energy Corporatio",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "HUM",
+        "nome": "Humana Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "KMI",
+        "nome": "Kinder Morgan, Inc.",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "ABBV",
+        "nome": "AbbVie Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "TSN",
+        "nome": "Tyson Foods, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "TPR",
+        "nome": "Tapestry, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CRWD",
+        "nome": "CrowdStrike Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "TRMB",
+        "nome": "Trimble Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "BR",
+        "nome": "Broadridge Financial Solutions,",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "GEV",
+        "nome": "GE Vernova Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "NOC",
+        "nome": "Northrop Grumman Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "EQR",
+        "nome": "Equity Residential",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "MGM",
+        "nome": "MGM Resorts International",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "HAL",
+        "nome": "Halliburton Company",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "ROL",
+        "nome": "Rollins, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "LW",
+        "nome": "Lamb Weston Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "LOW",
+        "nome": "Lowe's Companies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "WAT",
+        "nome": "Waters Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "NDSN",
+        "nome": "Nordson Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "DXCM",
+        "nome": "DexCom, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "WELL",
+        "nome": "Welltower Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "OTIS",
+        "nome": "Otis Worldwide Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "FANG",
+        "nome": "Diamondback Energy, Inc.",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "ADI",
+        "nome": "Analog Devices, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "WEC",
+        "nome": "WEC Energy Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "AON",
+        "nome": "Aon plc",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "BF.B",
+        "nome": "BF.B",
+        "tipo": "Stock",
+        "categoria": "Outro"
+    },
+    {
+        "codigo": "HII",
+        "nome": "Huntington Ingalls Industries, ",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "MS",
+        "nome": "Morgan Stanley",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "TMUS",
+        "nome": "T-Mobile US, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "SYF",
+        "nome": "Synchrony Financial",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "TER",
+        "nome": "Teradyne, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "HBAN",
+        "nome": "Huntington Bancshares Incorpora",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "WST",
+        "nome": "West Pharmaceutical Services, I",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "HOLX",
+        "nome": "Hologic, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "VRSN",
+        "nome": "VeriSign, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "CPRT",
+        "nome": "Copart, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "NVR",
+        "nome": "NVR, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "VICI",
+        "nome": "VICI Properties Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "CDNS",
+        "nome": "Cadence Design Systems, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "VZ",
+        "nome": "Verizon Communications Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "KMX",
+        "nome": "CarMax Inc",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CSX",
+        "nome": "CSX Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "WBD",
+        "nome": "Warner Bros. Discovery, Inc. - ",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "NOW",
+        "nome": "ServiceNow, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "NEE",
+        "nome": "NextEra Energy, Inc.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "CFG",
+        "nome": "Citizens Financial Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "XOM",
+        "nome": "Exxon Mobil Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "MSFT",
+        "nome": "Microsoft Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "SW",
+        "nome": "Smurfit WestRock plc",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "TTD",
+        "nome": "The Trade Desk, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "UAL",
+        "nome": "United Airlines Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "BBY",
+        "nome": "Best Buy Co., Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "ENPH",
+        "nome": "Enphase Energy, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "NVDA",
+        "nome": "NVIDIA Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "DELL",
+        "nome": "Dell Technologies Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "COST",
+        "nome": "Costco Wholesale Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "AVGO",
+        "nome": "Broadcom Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "JKHY",
+        "nome": "Jack Henry & Associates, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "TKO",
+        "nome": "TKO Group Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "LUV",
+        "nome": "Southwest Airlines Company",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "DE",
+        "nome": "Deere & Company",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "EFX",
+        "nome": "Equifax, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "AXP",
+        "nome": "American Express Company",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "BIIB",
+        "nome": "Biogen Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "BRO",
+        "nome": "Brown & Brown, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "SMCI",
+        "nome": "Super Micro Computer, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "FSLR",
+        "nome": "First Solar, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "ZBH",
+        "nome": "Zimmer Biomet Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ODFL",
+        "nome": "Old Dominion Freight Line, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "LYB",
+        "nome": "LyondellBasell Industries NV",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "INCY",
+        "nome": "Incyte Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ULTA",
+        "nome": "Ulta Beauty, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "RTX",
+        "nome": "RTX Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "NRG",
+        "nome": "NRG Energy, Inc.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "JBL",
+        "nome": "Jabil Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "META",
+        "nome": "Meta Platforms, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "D",
+        "nome": "Dominion Energy, Inc.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "AOS",
+        "nome": "A.O. Smith Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "EPAM",
+        "nome": "EPAM Systems, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "AME",
+        "nome": "AMETEK, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "BRK.B",
+        "nome": "BRK.B",
+        "tipo": "Stock",
+        "categoria": "Outro"
+    },
+    {
+        "codigo": "TDG",
+        "nome": "Transdigm Group Incorporated",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "TPL",
+        "nome": "Texas Pacific Land Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "JNJ",
+        "nome": "Johnson & Johnson",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "KIM",
+        "nome": "Kimco Realty Corporation (HC)",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "ZTS",
+        "nome": "Zoetis Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ECL",
+        "nome": "Ecolab Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "GWW",
+        "nome": "W.W. Grainger, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "CLX",
+        "nome": "Clorox Company (The)",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "SWK",
+        "nome": "Stanley Black & Decker, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "CCI",
+        "nome": "Crown Castle Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "HD",
+        "nome": "Home Depot, Inc. (The)",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "A",
+        "nome": "Agilent Technologies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "NI",
+        "nome": "NiSource Inc",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "ON",
+        "nome": "ON Semiconductor Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "CRM",
+        "nome": "Salesforce, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "NSC",
+        "nome": "Norfolk Southern Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "SPGI",
+        "nome": "S&P Global Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "BLK",
+        "nome": "BlackRock, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "MAA",
+        "nome": "Mid-America Apartment Communiti",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "FTNT",
+        "nome": "Fortinet, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "FDS",
+        "nome": "FactSet Research Systems Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "DG",
+        "nome": "Dollar General Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "WY",
+        "nome": "Weyerhaeuser Company",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "EBAY",
+        "nome": "eBay Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "HES",
+        "nome": "Hess Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "ADP",
+        "nome": "Automatic Data Processing, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "CI",
+        "nome": "The Cigna Group",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "WYNN",
+        "nome": "Wynn Resorts, Limited",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CME",
+        "nome": "CME Group Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "MTB",
+        "nome": "M&T Bank Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "VTR",
+        "nome": "Ventas, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "TGT",
+        "nome": "Target Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "K",
+        "nome": "Kellanova",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "CHTR",
+        "nome": "Charter Communications, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "MMC",
+        "nome": "Marsh & McLennan Companies, Inc",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "OKE",
+        "nome": "ONEOK, Inc.",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "MRK",
+        "nome": "Merck & Company, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "WSM",
+        "nome": "Williams-Sonoma, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "GDDY",
+        "nome": "GoDaddy Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "MPC",
+        "nome": "Marathon Petroleum Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "GE",
+        "nome": "GE Aerospace",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "KLAC",
+        "nome": "KLA Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "LVS",
+        "nome": "Las Vegas Sands Corp.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "ADSK",
+        "nome": "Autodesk, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "WDAY",
+        "nome": "Workday, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "GIS",
+        "nome": "General Mills, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "STE",
+        "nome": "STERIS plc (Ireland)",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "PLTR",
+        "nome": "Palantir Technologies Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "INTC",
+        "nome": "Intel Corporation",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "TYL",
+        "nome": "Tyler Technologies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "WRB",
+        "nome": "W.R. Berkley Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "ETR",
+        "nome": "Entergy Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "KMB",
+        "nome": "Kimberly-Clark Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "PAYX",
+        "nome": "Paychex, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "RJF",
+        "nome": "Raymond James Financial, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "GL",
+        "nome": "Globe Life Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "DVA",
+        "nome": "DaVita Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ALLE",
+        "nome": "Allegion plc",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "C",
+        "nome": "Citigroup, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "DUK",
+        "nome": "Duke Energy Corporation (Holdin",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "TEL",
+        "nome": "TE Connectivity plc",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "EXR",
+        "nome": "Extra Space Storage Inc",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "IRM",
+        "nome": "Iron Mountain Incorporated (Del",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "MU",
+        "nome": "Micron Technology, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "GOOG",
+        "nome": "Alphabet Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "MPWR",
+        "nome": "Monolithic Power Systems, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "FDX",
+        "nome": "FedEx Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "WMB",
+        "nome": "Williams Companies, Inc. (The)",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "DOV",
+        "nome": "Dover Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "EA",
+        "nome": "Electronic Arts Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "CCL",
+        "nome": "Carnival Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "ROST",
+        "nome": "Ross Stores, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "MET",
+        "nome": "MetLife, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "NEM",
+        "nome": "Newmont Corporation",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "UNH",
+        "nome": "UnitedHealth Group Incorporated",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "GRMN",
+        "nome": "Garmin Ltd.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "HPQ",
+        "nome": "HP Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "COR",
+        "nome": "Cencora, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ACGL",
+        "nome": "Arch Capital Group Ltd.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "CBOE",
+        "nome": "Cboe Global Markets, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "T",
+        "nome": "AT&T Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "ERIE",
+        "nome": "Erie Indemnity Company",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "PSX",
+        "nome": "Phillips 66",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "HPE",
+        "nome": "Hewlett Packard Enterprise Comp",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "CNP",
+        "nome": "CenterPoint Energy, Inc (Holdin",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "MKC",
+        "nome": "McCormick & Company, Incorporat",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "GOOGL",
+        "nome": "Alphabet Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "KKR",
+        "nome": "KKR & Co. Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "AMAT",
+        "nome": "Applied Materials, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "DHR",
+        "nome": "Danaher Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CPB",
+        "nome": "The Campbell's Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "CSGP",
+        "nome": "CoStar Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "JBHT",
+        "nome": "J.B. Hunt Transport Services, I",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "CBRE",
+        "nome": "CBRE Group Inc",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "PWR",
+        "nome": "Quanta Services, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "JCI",
+        "nome": "Johnson Controls International ",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "EQT",
+        "nome": "EQT Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "COO",
+        "nome": "The Cooper Companies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "HLT",
+        "nome": "Hilton Worldwide Holdings Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "INTU",
+        "nome": "Intuit Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "STZ",
+        "nome": "Constellation Brands, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "MTD",
+        "nome": "Mettler-Toledo International, I",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ISRG",
+        "nome": "Intuitive Surgical, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "MKTX",
+        "nome": "MarketAxess Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "PODD",
+        "nome": "Insulet Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "VTRS",
+        "nome": "Viatris Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "GM",
+        "nome": "General Motors Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "FFIV",
+        "nome": "F5, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "DVN",
+        "nome": "Devon Energy Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "STX",
+        "nome": "Seagate Technology Holdings PLC",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "BX",
+        "nome": "Blackstone Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "DLR",
+        "nome": "Digital Realty Trust, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "MTCH",
+        "nome": "Match Group, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "GEHC",
+        "nome": "GE HealthCare Technologies Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "DAL",
+        "nome": "Delta Air Lines, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "AIZ",
+        "nome": "Assurant, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "LMT",
+        "nome": "Lockheed Martin Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "TSLA",
+        "nome": "Tesla, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "STLD",
+        "nome": "Steel Dynamics, Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "PAYC",
+        "nome": "Paycom Software, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "ED",
+        "nome": "Consolidated Edison, Inc.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "ABNB",
+        "nome": "Airbnb, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "PKG",
+        "nome": "Packaging Corporation of Americ",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "UBER",
+        "nome": "Uber Technologies, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "AMZN",
+        "nome": "Amazon.com, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "FCX",
+        "nome": "Freeport-McMoRan, Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "CTRA",
+        "nome": "Coterra Energy Inc.",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "VST",
+        "nome": "Vistra Corp.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "J",
+        "nome": "Jacobs Solutions Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "COF",
+        "nome": "Capital One Financial Corporati",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "BAX",
+        "nome": "Baxter International Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "ICE",
+        "nome": "Intercontinental Exchange Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "GLW",
+        "nome": "Corning Incorporated",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "NUE",
+        "nome": "Nucor Corporation",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "PRU",
+        "nome": "Prudential Financial, Inc.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "HSY",
+        "nome": "The Hershey Company",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "AES",
+        "nome": "The AES Corporation",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "SLB",
+        "nome": "Schlumberger N.V.",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "ACN",
+        "nome": "Accenture plc",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "AIG",
+        "nome": "American International Group, I",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "DIS",
+        "nome": "Walt Disney Company (The)",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "HUBB",
+        "nome": "Hubbell Inc",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "SNA",
+        "nome": "Snap-On Incorporated",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "GS",
+        "nome": "Goldman Sachs Group, Inc. (The)",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "CF",
+        "nome": "CF Industries Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "UDR",
+        "nome": "UDR, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "GPN",
+        "nome": "Global Payments Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "FI",
+        "nome": "Fiserv, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "PHM",
+        "nome": "PulteGroup, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "EQIX",
+        "nome": "Equinix, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "NTRS",
+        "nome": "Northern Trust Corporation",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "XYL",
+        "nome": "Xylem Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "BG",
+        "nome": "Bunge Limited",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "FOX",
+        "nome": "Fox Corporation",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "NCLH",
+        "nome": "Norwegian Cruise Line Holdings ",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "PSA",
+        "nome": "Public Storage",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "SWKS",
+        "nome": "Skyworks Solutions, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "AVY",
+        "nome": "Avery Dennison Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CTVA",
+        "nome": "Corteva, Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "KVUE",
+        "nome": "Kenvue Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "VLTO",
+        "nome": "Veralto Corp",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "LDOS",
+        "nome": "Leidos Holdings, Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "LH",
+        "nome": "Labcorp Holdings Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "GEN",
+        "nome": "Gen Digital Inc.",
+        "tipo": "Stock",
+        "categoria": "Technology"
+    },
+    {
+        "codigo": "VRSK",
+        "nome": "Verisk Analytics, Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "NFLX",
+        "nome": "Netflix, Inc.",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "TXT",
+        "nome": "Textron Inc.",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "JPM",
+        "nome": "JP Morgan Chase & Co.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "HSIC",
+        "nome": "Henry Schein, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "CPT",
+        "nome": "Camden Property Trust",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "LKQ",
+        "nome": "LKQ Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "DECK",
+        "nome": "Deckers Outdoor Corporation",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "FE",
+        "nome": "FirstEnergy Corp.",
+        "tipo": "Stock",
+        "categoria": "Utilities"
+    },
+    {
+        "codigo": "ESS",
+        "nome": "Essex Property Trust, Inc.",
+        "tipo": "Stock",
+        "categoria": "Real Estate"
+    },
+    {
+        "codigo": "MDLZ",
+        "nome": "Mondelez International, Inc.",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "TECH",
+        "nome": "Bio-Techne Corp",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "APTV",
+        "nome": "Aptiv PLC",
+        "tipo": "Stock",
+        "categoria": "Consumer Cyclical"
+    },
+    {
+        "codigo": "CTAS",
+        "nome": "Cintas Corporation",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "NWSA",
+        "nome": "News Corporation",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "WFC",
+        "nome": "Wells Fargo & Company",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "CVS",
+        "nome": "CVS Health Corporation",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "EXPD",
+        "nome": "Expeditors International of Was",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "PPG",
+        "nome": "PPG Industries, Inc.",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "APA",
+        "nome": "APA Corporation",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "OXY",
+        "nome": "Occidental Petroleum Corporatio",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "EMR",
+        "nome": "Emerson Electric Company",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    },
+    {
+        "codigo": "PARA",
+        "nome": "Paramount Global",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "PFE",
+        "nome": "Pfizer, Inc.",
+        "tipo": "Stock",
+        "categoria": "Healthcare"
+    },
+    {
+        "codigo": "TTWO",
+        "nome": "Take-Two Interactive Software, ",
+        "tipo": "Stock",
+        "categoria": "Communication Services"
+    },
+    {
+        "codigo": "EG",
+        "nome": "Everest Group, Ltd.",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "VALE3.SA",
+        "nome": "VALE        ON      NM",
+        "tipo": "Stock",
+        "categoria": "Basic Materials"
+    },
+    {
+        "codigo": "PETR4.SA",
+        "nome": "PETROBRAS   PN      N2",
+        "tipo": "Stock",
+        "categoria": "Energy"
+    },
+    {
+        "codigo": "ITUB4.SA",
+        "nome": "ITAUUNIBANCOPN      N1",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "BBDC4.SA",
+        "nome": "BRADESCO    PN      N1",
+        "tipo": "Stock",
+        "categoria": "Financial Services"
+    },
+    {
+        "codigo": "ABEV3.SA",
+        "nome": "AMBEV S/A   ON",
+        "tipo": "Stock",
+        "categoria": "Consumer Defensive"
+    },
+    {
+        "codigo": "WEGE3.SA",
+        "nome": "WEG         ON      NM",
+        "tipo": "Stock",
+        "categoria": "Industrials"
+    }
+]

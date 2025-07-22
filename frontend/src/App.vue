@@ -7,7 +7,7 @@
         <v-app-bar app elevation="3" class="gradient-background" dark>
             <v-app-bar-nav-icon @click="toggleDrawer" />
 
-            <v-toolbar-title class="font-weight-bold">
+            <v-toolbar-title class="font-weight-bold" @click="router.push('/')">
                 🔥 F.I.R.E.
             </v-toolbar-title>
 
@@ -18,6 +18,9 @@
                 <span v-if="user.username" class="me-2 text-caption text-white">
                     {{ user.username }}
                 </span>
+                <v-btn icon @click="router.push('/nova-operacao')">
+                    <v-icon>mdi-plus</v-icon>
+                </v-btn>
 
                 <v-menu offset-y>
                     <template #activator="{ props }">
@@ -29,6 +32,10 @@
                     </template>
 
                     <v-list>
+                        <v-list-item
+                            title="Nova operaçao"
+                            @click="router.push('/nova-operacao')"
+                        />
                         <v-list-item
                             title="Configurações"
                             @click="router.push('/configuracoes')"
